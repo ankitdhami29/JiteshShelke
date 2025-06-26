@@ -38,6 +38,7 @@
 #### 🤖 Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
 ![ML Models](https://img.shields.io/badge/-Regression|Classification|Clustering-blueviolet?style=flat-square)
+![YOLO](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
 
 #### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
